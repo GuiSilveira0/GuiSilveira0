@@ -1,6 +1,16 @@
 <div align="center">
-  <b><h1>Bem Vindo ^-^</h1></b>
-  <p>💻🔥 Front End | Web Developer</p>
+  <b><h1>Welcome ^-^</h1></b>
+</div>
+
+<br />
+
+<div>
+  <h3>About me:</h3>
+  <ul>
+    <li>💻 Front End | Web Developer 💻</li>
+    <li>🌇 Brazil | Marília-SP 🌇</li>
+    <li>🎉 20 years old 🎉</li>
+  </ul>
 </div>
 
 <br />
