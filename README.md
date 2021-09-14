@@ -29,3 +29,5 @@
 </div>
 
 <hr />
+
+![Snake animation](https://github.com/rafaballerini/GuiSilveira0/blob/output/github-contribution-grid-snake.svg)
