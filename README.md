@@ -7,7 +7,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=GuiSilveira0&theme=radical&show_icons=true" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilveira0&langs_count=5&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilveira0&langs_count=5&theme=radical" />
 </div>
 
 <br />
