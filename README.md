@@ -7,9 +7,9 @@
 <div>
   <h3>About me:</h3>
   <ul>
-    <li>💻 Front End | Web Developer 💻</li>
+    <li>💻 Web Developer 💻</li>
     <li>🌇 Brazil | Marília-SP 🌇</li>
-    <li>🎉 20 years old 🎉</li>
+    <li>🎉 21 years old 🎉</li>
   </ul>
 </div>
 
