@@ -15,13 +15,6 @@
 
 <br />
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiSilveira0&theme=radical&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilveira0&langs_count=5&theme=radical" />
-</div>
-
-<br />
-
 <div align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
