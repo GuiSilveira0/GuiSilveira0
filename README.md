@@ -40,14 +40,6 @@ Currently working with:
 * Cloud solutions
 * Backend best practices
 * Performance optimization
-* 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilveira0&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilveira0&layout=compact&theme=tokyonight"/>
 
 </div>
 
