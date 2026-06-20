@@ -40,21 +40,7 @@ Currently working with:
 * Cloud solutions
 * Backend best practices
 * Performance optimization
-
-## Featured Projects
-
-🔹 Project Name
-
-FastAPI • SQLAlchemy • Redis • Docker
-
-Brief description about the project.
-
-🔹 Another Project
-
-Python • Clean Architecture • AWS
-
-Brief description.
-
+* 
 ## GitHub Stats
 
 <div align="center">
