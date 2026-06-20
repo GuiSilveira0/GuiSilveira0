@@ -8,8 +8,6 @@
   <h3>About me:</h3>
   <ul>
     <li>💻 FullStack Developer 💻</li>
-    <li>🌇 Brazil | Marília-SP 🌇</li>
-    <li>🎉 24 years old 🎉</li>
   </ul>
 </div>
 
