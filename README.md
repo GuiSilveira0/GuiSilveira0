@@ -1,49 +1,47 @@
 # Hi there, I'm Guilherme 👋
 
-## Backend Developer | Python • FastAPI • Docker • AWS
+## Full Stack Developer | Python • FastAPI • .NET • Angular • AWS
 
-Backend Developer with ~4 years of experience building scalable applications using Python, FastAPI and .NET.
+Full Stack Developer with ~4 years of experience building scalable backend and frontend systems using Python, FastAPI, .NET, and Angular.
+Experienced in designing and maintaining RESTful APIs, microservices, distributed systems, and modern web applications with focus on performance, scalability, and clean architecture.
 
-Currently working with:
+---
 
-* 🐍 Python
-* ⚡ FastAPI
-* 🏛️ Clean Architecture
-* 🐳 Docker
-* 🔴 Redis
-* 🗃️ SQLAlchemy
-* ☁️ AWS
-* 🔧 Microservices
-* 🛰️ IoT Integrations
-* 🅰️ Angular
+## 🚀 What I work with
 
-## Tech Stack
+- 🐍 Python (FastAPI, SQLAlchemy)  
+- ⚡ .NET / C#  
+- 🅰️ Angular (TypeScript, Reactive Forms)  
+- 🏛️ Clean Architecture & SOLID principles  
+- 🐳 Docker & containerized applications  
+- 🔴 Redis (caching & performance optimization)  
+- 🗃️ SQL / relational databases  
+- ☁️ AWS (cloud services & deployments)  
+- 🔧 Microservices architecture  
+- 🛰️ IoT integrations & communication gateways  
+- 🚀 RESTful API design & development   
+
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
 </div>
 
-## What I'm focusing on
+---
 
-* Designing scalable APIs
-* Distributed systems
-* Microservices
-* Cloud solutions
-* Backend best practices
-* Performance optimization
-
-</div>
-
-## Connect with me
+## 📫 Connect with me
 
 <div align="center">
 
